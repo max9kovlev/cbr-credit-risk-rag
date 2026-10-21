@@ -10,6 +10,10 @@ authors = [
     { name = "Павлов Егор" }
 ]
 requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.6",
+    "selenium>=4.51.0",
+]
 
 
 [project.scripts]
