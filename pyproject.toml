@@ -1,0 +1,49 @@
+[project]
+name = "cbr-credit-risk-rag"
+version = "0.1.0"
+description = "RAG-система для ответов на вопросы по нормативным актам Банка России в области кредитного риска."
+readme = "README.md"
+authors = [
+    { name = "Максим Яковлев", email = "maximus2737@gmail.com" },
+    { name = "Сологубов Артем" },
+    { name = "Соеров Ширхан" },
+    { name = "Павлов Егор" }
+]
+requires-python = ">=3.12"
+
+
+[project.scripts]
+cbr-credit-risk-rag = "cbr_credit_risk_rag:main"
+
+[project.optional-dependencies]
+pandas = [
+    "nltk>=3.10.3",
+    "seaborn>=0.13.2",
+    "torch>=2.14.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "mypy>=2.4.0",
+    "pre-commit>=4.7.0",
+    "pytest>=9.1.1",
+    "ruff>=0.17.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+
+[tool.mypy]
+strict = true
+python_version = "3.12"
+files = ["src", "tests"]
