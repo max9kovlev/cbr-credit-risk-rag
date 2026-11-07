@@ -1,0 +1,589 @@
+{
+  "converter": "pandoc",
+  "source": "input/N845.odt",
+  "markdown": "output/pandoc/N845.md",
+  "original_text_blocks": 2034,
+  "converted_text_blocks": 1275,
+  "potentially_unmatched_text_blocks": [
+    {
+      "index": 172,
+      "similarity": 39.2,
+      "text": "КРП=К пвр\t\n\t\t(Pictures/1000560892.png)\n\t\nEAD,"
+    },
+    {
+      "index": 180,
+      "similarity": 38.6,
+      "text": "РД=К рд\t\n\t\t(Pictures/1000560892.png)\n\t\n(EAD-0,08\t\n\t\t(Pictures/1000560892.png)\n\t\nРР),"
+    },
+    {
+      "index": 199,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744522.png)\n\t\n,"
+    },
+    {
+      "index": 203,
+      "similarity": 77.1,
+      "text": "(Pictures/1001744425.png)\n\t\n - обратная функция стандартного нормального распределения;"
+    },
+    {
+      "index": 204,
+      "similarity": 69.1,
+      "text": "PD - вероятность дефолта, при этом PD\t\n\t\t(Pictures/1000561312.png)\n\t\n100%;"
+    },
+    {
+      "index": 206,
+      "similarity": 27.6,
+      "text": "(Pictures/1000453558.png)\n\t\n,"
+    },
+    {
+      "index": 207,
+      "similarity": 62.6,
+      "text": "где \t\n\t\t(Pictures/1001744557.png)\n\t\n - экспоненциальная функция;"
+    },
+    {
+      "index": 210,
+      "similarity": 62.8,
+      "text": "b(PD)=(0,11852-0,05478\t\n\t\t(Pictures/1000560892.png)\n\t\nln(PD)) 2,"
+    },
+    {
+      "index": 213,
+      "similarity": 27.6,
+      "text": "(Pictures/1000453652.png)\n\t\n."
+    },
+    {
+      "index": 215,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744447.png)\n\t\n,"
+    },
+    {
+      "index": 221,
+      "similarity": 27.6,
+      "text": "(Pictures/1000453560.png)\n\t\n."
+    },
+    {
+      "index": 227,
+      "similarity": 62.0,
+      "text": "К пвр=12,5\t\n\t\t(Pictures/1000560892.png)\n\t\nmax(0; LGD дефолт-EL *),"
+    },
+    {
+      "index": 280,
+      "similarity": 83.7,
+      "text": "4.1. Для кредитных требований к розничным заемщикам, по которым не произошел дефолт (PD\t\n\t\t(Pictures/1000561312.png)\n\t\n100%), коэффициент риска (К пвр) рассчитывается по [формуле](#anchor4102):"
+    },
+    {
+      "index": 281,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744521.png)\n\t\n,"
+    },
+    {
+      "index": 287,
+      "similarity": 27.6,
+      "text": "(Pictures/1000453528.png)\n\t\n."
+    },
+    {
+      "index": 292,
+      "similarity": 43.0,
+      "text": "РР=К рр\t\n\t\t(Pictures/1000560892.png)\n\t\nEAD,"
+    },
+    {
+      "index": 300,
+      "similarity": 41.1,
+      "text": "EL=PD\t\n\t\t(Pictures/1000560892.png)\n\t\nLGD,"
+    },
+    {
+      "index": 302,
+      "similarity": 69.1,
+      "text": "PD - вероятность дефолта, при этом PD\t\n\t\t(Pictures/1000561312.png)\n\t\n100%;"
+    },
+    {
+      "index": 347,
+      "similarity": 49.5,
+      "text": "EL рр=PD рр\t\n\t\t(Pictures/1000560892.png)\n\t\nLGD рр,"
+    },
+    {
+      "index": 477,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744422.png)\n\t\n,"
+    },
+    {
+      "index": 904,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744406.png)\n\t\n,"
+    },
+    {
+      "index": 908,
+      "similarity": 49.5,
+      "text": "E S=C\t\n\t\t(Pictures/1000560892.png)\n\t\n(1-H c-H fx),"
+    },
+    {
+      "index": 920,
+      "similarity": 50.4,
+      "text": "предоставленного обеспечения (LGD S), процентов"
+    },
+    {
+      "index": 942,
+      "similarity": 84.4,
+      "text": "В случае если расчетная стоимость полученного обеспечения после применения соответствующего виду обеспечения дисконта (E S) превышает стоимость кредитного требования (E\t\n\t\t(Pictures/1000560892.png)\n\t\n(1+H e) , значение указанного показателя принимается равным E\t\n\t\t(Pictures/1000560892.png)\n\t\n(1+H e)."
+    },
+    {
+      "index": 956,
+      "similarity": 27.6,
+      "text": "(Pictures/1001279252.png)\n\t\n,"
+    },
+    {
+      "index": 962,
+      "similarity": 73.3,
+      "text": "Минимальное значение уровня потерь при дефолте для кредитных требований к корпоративным заемщикам и подкласса прочих кредитных требований к розничным заемщикам (LGD S порог), процентов"
+    },
+    {
+      "index": 1272,
+      "similarity": 78.1,
+      "text": "Показатель корректности надбавки к оценке уровня потерь при дефолте для учета периода экономического спада (DT ratio)"
+    },
+    {
+      "index": 1275,
+      "similarity": 70.7,
+      "text": "Показатель корректности надбавки к оценке величины кредитного требования, подверженной риску дефолта, для учета периода экономического спада (DT ratio)"
+    },
+    {
+      "index": 1302,
+      "similarity": 31.0,
+      "text": "(Pictures/1001714037.png)\n\t\n,"
+    },
+    {
+      "index": 1313,
+      "similarity": 78.2,
+      "text": "4.2. Асимптотическая среднеквадратичная ошибка для коэффициента Джини \t\n\t\t(Pictures/1001744326.png)\n\t\n рассчитывается по [формуле](#anchor40422):"
+    },
+    {
+      "index": 1314,
+      "similarity": 25.0,
+      "text": "(Pictures/1001744344.png)"
+    },
+    {
+      "index": 1325,
+      "similarity": 87.8,
+      "text": "На основании полученных рангов рассчитывается коэффициент корреляции Спирмена с рейтингами национальных кредитных рейтинговых агентств (\t\n\t\t(Pictures/1000561388.png)\n\t\n) по [формуле](#anchor40438):"
+    },
+    {
+      "index": 1326,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744495.png)\n\t\n,"
+    },
+    {
+      "index": 1328,
+      "similarity": 67.9,
+      "text": "(Pictures/1001744449.png)\n\t\n и \t\n\t\t(Pictures/1001744450.png)\n\t\n - ранги, присвоенные банком на основании внутренних и внешних рейтинговых шкал;"
+    },
+    {
+      "index": 1332,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744458.png)\n\t\n,"
+    },
+    {
+      "index": 1335,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744439.png)\n\t\n,"
+    },
+    {
+      "index": 1340,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744446.png)\n\t\n,"
+    },
+    {
+      "index": 1344,
+      "similarity": 82.4,
+      "text": "N i - количество наблюдений, имеющих i-ю оценку объясняющей переменной, рассчитываемое по формуле \t\n\t\t(Pictures/1001714052.png)\n\t\n."
+    },
+    {
+      "index": 1351,
+      "similarity": 79.4,
+      "text": "4.5. Асимптотическая среднеквадратичная ошибка для коэффициента D Сомерса (\t\n\t\t(Pictures/1000561391.png)\n\t\n(SD) рассчитывается по [формуле](#anchor40452):"
+    },
+    {
+      "index": 1352,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744496.png)\n\t\n ."
+    },
+    {
+      "index": 1354,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744525.png)\n\t\n,"
+    },
+    {
+      "index": 1358,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744441.png)\n\t\n,"
+    },
+    {
+      "index": 1366,
+      "similarity": 87.5,
+      "text": "5.3.1. Для каждого разряда рейтинговой шкалы рассчитывается значение вероятности дефолта для уровня значимости, равного пяти процентам, и уровня значимости, равного одному проценту \t\n\t\t(Pictures/1001744327.png)\n\t\n, по [формуле](#anchor45312):"
+    },
+    {
+      "index": 1367,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744440.png)\n\t\n,"
+    },
+    {
+      "index": 1370,
+      "similarity": 54.7,
+      "text": "(Pictures/1000561358.png)\n\t\n - уровень значимости;"
+    },
+    {
+      "index": 1373,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744347.png)\n\t\n,"
+    },
+    {
+      "index": 1387,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744502.png)\n\t\n,"
+    },
+    {
+      "index": 1390,
+      "similarity": 76.8,
+      "text": "(Pictures/1001714045.png)\n\t\n - величина прогнозного уровня потерь при дефолте по i-му наблюдению;"
+    },
+    {
+      "index": 1391,
+      "similarity": 77.1,
+      "text": "(Pictures/1001714046.png)\n\t\n - величина фактического уровня потерь при дефолте по i-му наблюдению."
+    },
+    {
+      "index": 1393,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744402.png)\n\t\n,"
+    },
+    {
+      "index": 1395,
+      "similarity": 89.3,
+      "text": "(Pictures/1001714034.png)\n\t\n - величина кредитного требования, подверженная риску дефолта, по i-му наблюдению, полученная по модели оценки величины кредитного требования, подверженной риску дефолта;"
+    },
+    {
+      "index": 1396,
+      "similarity": 82.5,
+      "text": "(Pictures/1001714035.png)\n\t\n - фактическая величина кредитного требования, подверженная риску дефолта, по i-му наблюдению."
+    },
+    {
+      "index": 1398,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744349.png)\n\t\n,"
+    },
+    {
+      "index": 1403,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744348.png)\n\t\n,"
+    },
+    {
+      "index": 1408,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744400.png)\n\t\n,"
+    },
+    {
+      "index": 1416,
+      "similarity": 27.6,
+      "text": "(Pictures/1001744501.png)\n\t\n,"
+    },
+    {
+      "index": 1982,
+      "similarity": 88.5,
+      "text": "6 Зарегистрировано Минюстом России 29 февраля 2024 года, регистрационный N 77372."
+    },
+    {
+      "index": 1984,
+      "similarity": 88.4,
+      "text": "8 Зарегистрировано Минюстом России 15 апреля 2021 года, регистрационный N 63148,"
+    },
+    {
+      "index": 1992,
+      "similarity": 88.8,
+      "text": "16 Зарегистрировано Минюстом России 25 сентября 2015 года, регистрационный N 38996,"
+    },
+    {
+      "index": 1993,
+      "similarity": 88.6,
+      "text": "17 Зарегистрировано Минюстом России 22 декабря 2015 года, регистрационный N 40193."
+    },
+    {
+      "index": 1994,
+      "similarity": 88.3,
+      "text": "18 Зарегистрировано Минюстом России 10 июня 2019 года, регистрационный N 54896."
+    },
+    {
+      "index": 1995,
+      "similarity": 88.4,
+      "text": "19 Зарегистрировано Минюстом России 31 марта 2020 года, регистрационный N 57915."
+    },
+    {
+      "index": 1996,
+      "similarity": 88.5,
+      "text": "20 Зарегистрировано Минюстом России 29 апреля 2020 года, регистрационный N 58242."
+    },
+    {
+      "index": 1997,
+      "similarity": 88.5,
+      "text": "21 Зарегистрировано Минюстом России 15 апреля 2021 года, регистрационный N 63150."
+    },
+    {
+      "index": 1998,
+      "similarity": 88.3,
+      "text": "22 Зарегистрировано Минюстом России 11 июня 2021 года, регистрационный N 63866."
+    },
+    {
+      "index": 1999,
+      "similarity": 88.5,
+      "text": "23 Зарегистрировано Минюстом России 9 августа 2021 года, регистрационный N 64580."
+    },
+    {
+      "index": 2000,
+      "similarity": 88.1,
+      "text": "24 Зарегистрировано Минюстом России 9 июня 2023 года, регистрационный N 73792."
+    }
+  ],
+  "original_tables": 12,
+  "recognized_tables_pandoc": 12,
+  "recognized_pipe_tables": 0,
+  "recognized_html_table_tags": 0,
+  "table_detection_warning": "markdown-it-py detects pipe tables only; Pandoc additionally detects grid tables. Cell contents and merged cells are not yet validated.",
+  "original_image_references": 57,
+  "markdown_image_references": 57,
+  "found_image_files": 0,
+  "missing_image_files": [
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744522.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744522.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744425.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744425.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561312.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561312.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453558.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453558.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744557.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744557.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453652.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453652.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744447.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744447.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453560.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453560.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561312.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561312.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744521.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744521.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453528.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000453528.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561312.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561312.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744422.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744422.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744406.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744406.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000560892.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001279252.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001279252.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714037.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714037.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744326.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744326.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744344.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744344.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561388.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561388.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744495.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744495.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744449.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744449.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744450.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744450.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744458.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744458.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744439.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744439.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744340.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744340.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744446.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744446.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744350.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744350.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714052.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714052.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561391.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561391.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744496.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744496.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744525.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744525.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744441.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744441.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744327.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744327.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744440.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744440.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561358.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1000561358.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744347.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744347.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744502.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744502.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714045.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714045.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714046.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714046.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744402.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744402.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714034.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714034.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714035.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001714035.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744349.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744349.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744348.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744348.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744400.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744400.png"
+    },
+    {
+      "reference": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744501.png",
+      "resolved_path": "/Users/artem-s-macbook-pro-14/Downloads/hse_year_project/output/pandoc/N845_media/Pictures/1001744501.png"
+    }
+  ],
+  "external_image_references": [],
+  "manual_review_required": [
+    "Проверить содержимое и раскладку всех таблиц по ODT",
+    "Проверить корректность формул и изображений формул",
+    "Сверить нормативные номера, даты, проценты и коэффициенты",
+    "Проверить спорные текстовые блоки по оригиналу"
+  ]
+}
