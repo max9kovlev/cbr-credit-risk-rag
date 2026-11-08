@@ -205,6 +205,11 @@ pandas = [
 ]
 
 [package.dev-dependencies]
+corpus-light = [
+    { name = "ipykernel" },
+    { name = "matplotlib" },
+    { name = "pandas" },
+]
 dev = [
     { name = "mypy" },
     { name = "pre-commit" },
@@ -230,6 +235,11 @@ requires-dist = [
 provides-extras = ["pandas"]
 
 [package.metadata.requires-dev]
+corpus-light = [
+    { name = "ipykernel", specifier = ">=7.4,<8" },
+    { name = "matplotlib", specifier = ">=3.10,<4" },
+    { name = "pandas", specifier = ">=3.0.6,<4" },
+]
 dev = [
     { name = "mypy", specifier = ">=2.4.0" },
     { name = "pre-commit", specifier = ">=4.7.0" },

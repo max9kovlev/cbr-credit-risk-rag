@@ -1,0 +1,15 @@
+{
+  "source_files": 93,
+  "unique_texts": 92,
+  "acts_by_header": 88,
+  "selected_sources": 90,
+  "units_845p": 368,
+  "word_occurrences": 1889816,
+  "unique_words": 26692,
+  "hyperlink_occurrences": 67259,
+  "anomalies": {
+    "non_text_source": 2,
+    "duplicate_text": 1,
+    "target_missing": 16144
+  }
+}
