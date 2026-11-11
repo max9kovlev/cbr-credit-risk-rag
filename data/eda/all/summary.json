@@ -1,0 +1,17 @@
+{
+  "documents": 90,
+  "acts": 88,
+  "units": 24962,
+  "chunks": 20405,
+  "max_tokens": 508,
+  "word_occurrences": 1889816,
+  "word_forms": 26692,
+  "hyperlinks": 67259,
+  "links_resolved_to_unit": 42098,
+  "links_resolved_to_chunks": 38576,
+  "legal_status": {
+    "unknown": 73,
+    "repealed": 15,
+    "not_applicable": 2
+  }
+}

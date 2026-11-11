@@ -209,6 +209,7 @@ corpus-light = [
     { name = "ipykernel" },
     { name = "matplotlib" },
     { name = "pandas" },
+    { name = "tokenizers" },
 ]
 dev = [
     { name = "mypy" },
@@ -239,6 +240,7 @@ corpus-light = [
     { name = "ipykernel", specifier = ">=7.4,<8" },
     { name = "matplotlib", specifier = ">=3.10,<4" },
     { name = "pandas", specifier = ">=3.0.6,<4" },
+    { name = "tokenizers", specifier = ">=0.22" },
 ]
 dev = [
     { name = "mypy", specifier = ">=2.4.0" },

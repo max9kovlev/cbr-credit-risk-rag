@@ -1,0 +1,15 @@
+{
+  "documents": 1,
+  "acts": 1,
+  "units": 369,
+  "chunks": 411,
+  "max_tokens": 507,
+  "word_occurrences": 42994,
+  "word_forms": 4819,
+  "hyperlinks": 845,
+  "links_resolved_to_unit": 763,
+  "links_resolved_to_chunks": 653,
+  "legal_status": {
+    "unknown": 1
+  }
+}

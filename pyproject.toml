@@ -42,6 +42,7 @@ corpus-light = [
     "ipykernel>=7.4,<8",
     "matplotlib>=3.10,<4",
     "pandas>=3.0.6,<4",
+    "tokenizers>=0.22",
 ]
 dev = [
     "mypy>=2.4.0",
