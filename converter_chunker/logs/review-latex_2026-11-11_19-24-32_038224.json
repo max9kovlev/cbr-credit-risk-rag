@@ -1,0 +1,15 @@
+{
+  "stage": "latex",
+  "passed": false,
+  "details": {
+    "pictures": 57,
+    "recognized_formula_spans": 27,
+    "note": "Checks preservation and delimiters, not mathematical recognition accuracy"
+  },
+  "errors": [
+    "#/pictures/3: unclosed/unsupported LaTeX delimiter: '\\\\documentclass[t12pt]{article}\\n\\n\\\\usepackage{amsmath}\\n\\n\\\\begin{document}\\n\\n\\\\begin{tikzpicture}\\n\\n\\\\begin{tikzpicture}\\n\\n\\\\begin{tikzpicture}\\n\\n\\\\begin{tikzpicture}\\n\\n\\\\begin{tikzpicture}\\n\\n\\\\be'",
+    "#/pictures/29: unclosed/unsupported LaTeX delimiter: 'P = \\\\begin{matrix}1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17 & 18 & 19 & 20 & 21 & 22 & 23 & 24 & 25 & 26 & 27 & 28 & 29 & 30 & 31 & 32 & 33 & 34 & 3'",
+    "#/pictures/42: unclosed/unsupported LaTeX delimiter: '\\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\\\\\ \\\\(x\\\\Phi^{-1}(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{(0.99)^{('",
+    "#/pictures/46: unclosed/unsupported LaTeX delimiter: 'The formula is:\\n\\\\[DR_{i}:=DR_{\\\\cdot\\\\cdot\\\\cdot}DR_{\\\\cdot\\\\cdot\\\\cdot}DR_{\\\\cdot\\\\cdot\\\\cdot}DR_{\\\\cdot\\\\cdot\\\\cdot}DR_{\\\\cdot\\\\cdot\\\\cdot}DR_{\\\\cdot\\\\cdot\\\\cdot}DR_{\\\\cdot\\\\cdot\\\\cdot}DR_{\\\\cdot\\\\cdot'"
+  ]
+}

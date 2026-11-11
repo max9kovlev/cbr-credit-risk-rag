@@ -1,0 +1,10 @@
+{
+  "stage": "conversion",
+  "passed": true,
+  "details": {
+    "pictures": 57,
+    "references": 1428,
+    "texts": 3979
+  },
+  "errors": []
+}

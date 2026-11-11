@@ -1,0 +1,11 @@
+{
+  "stage": "conversion",
+  "passed": true,
+  "details": {
+    "pictures": 57,
+    "references": 1428,
+    "texts": 3979
+  },
+  "errors": []
+}
+Review report: /Users/artem-s-macbook-pro-14/Desktop/converter_chuncker/logs/review-conversion_2026-11-11_18-57-34_867656.json
