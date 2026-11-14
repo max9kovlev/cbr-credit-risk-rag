@@ -11,8 +11,15 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "bs4>=0.0.2",
+    "docling-slim[format-opendocument]>=2.145.0",
+    "docling[opendocument]>=2.145.0",
+    "ipykernel>=7.4.0",
+    "ipywidgets>=8.1.9",
     "pandas>=3.0.6",
+    "requests>=2.34.2",
     "selenium>=4.51.0",
+    "tqdm>=4.70.1",
 ]
 
 
